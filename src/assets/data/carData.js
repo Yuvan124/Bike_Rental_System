@@ -20,7 +20,7 @@ const carData = [
     speed: "40kmpl",
     gps: "GPS Navigation",
    
-    automatic: "Automatic",
+    automatic: "Gear 5",
     description:
       " A motorcycle is a two-wheeled vehicle with an engine. Motorcycles are bigger, heavier, and much faster than bicycles, but they have many similar parts. Like bicycles, motorcycles are often called bikes.",
   },
@@ -36,7 +36,7 @@ const carData = [
     speed: "45kmpl",
     gps: "GPS Navigation",
     
-    automatic: "Automatic",
+    automatic: "Gear 5",
     description:
       " A motorcycle is a two-wheeled vehicle with an engine. Motorcycles are bigger, heavier, and much faster than bicycles, but they have many similar parts. Like bicycles, motorcycles are often called bikes.",
   },
@@ -52,7 +52,7 @@ const carData = [
     speed: "45kmpl",
     gps: "GPS Navigation",
    
-    automatic: "Automatic",
+    automatic: "Gear 5",
     description:
       " A motorcycle is a two-wheeled vehicle with an engine. Motorcycles are bigger, heavier, and much faster than bicycles, but they have many similar parts. Like bicycles, motorcycles are often called bikes.",
   },
@@ -68,7 +68,7 @@ const carData = [
     speed: "55kmpl",
     gps: "GPS Navigation",
    
-    automatic: "Automatic",
+    automatic: "Gear 5",
     description:
       "A motorcycle is a two-wheeled vehicle with an engine. Motorcycles are bigger, heavier, and much faster than bicycles, but they have many similar parts. Like bicycles, motorcycles are often called bikes.",
   },
@@ -84,7 +84,7 @@ const carData = [
     speed: "50kmpl",
     gps: "GPS Navigation",
    
-    automatic: "Automatic",
+    automatic: "Gear 5",
     description:
       " A motorcycle is a two-wheeled vehicle with an engine. Motorcycles are bigger, heavier, and much faster than bicycles, but they have many similar parts. Like bicycles, motorcycles are often called bikes.",
   },
@@ -99,7 +99,7 @@ const carData = [
     speed: "20kmpl",
     gps: "GPS Navigation",
     
-    automatic: "Automatic",
+    automatic: "Gear 6",
     description:
       " A motorcycle is a two-wheeled vehicle with an engine. Motorcycles are bigger, heavier, and much faster than bicycles, but they have many similar parts. Like bicycles, motorcycles are often called bikes.",
   },
@@ -115,7 +115,7 @@ const carData = [
     speed: "20kmpl",
     gps: "GPS Navigation",
    
-    automatic: "Automatic",
+    automatic: "Gear 5",
     description:
       " A motorcycle is a two-wheeled vehicle with an engine. Motorcycles are bigger, heavier, and much faster than bicycles, but they have many similar parts. Like bicycles, motorcycles are often called bikes.",
   },
@@ -131,7 +131,7 @@ const carData = [
     speed: "20kmpl",
     gps: "GPS Navigation",
     
-    automatic: "Automatic",
+    automatic: "Gear 4",
     description:
       " A motorcycle is a two-wheeled vehicle with an engine. Motorcycles are bigger, heavier, and much faster than bicycles, but they have many similar parts. Like bicycles, motorcycles are often called bikes.",
   },
