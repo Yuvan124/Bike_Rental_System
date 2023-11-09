@@ -1,0 +1,30 @@
+/* Add this CSS to your component's CSS file or a global stylesheet */
+
+.marquee-container {
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+    background-color: #f0f0f0;
+    padding: 10px;
+  }
+  
+  .marquee-content {
+    display: inline-block;
+    white-space: nowrap;
+    animation: marquee 10s linear infinite;
+  }
+  
+  img {
+    max-width: 500px; /* Adjust the image width as needed */
+    margin: 0 10px; /* Add spacing between images and text */
+  }
+  
+  @keyframes marquee {
+    0% {
+      transform: translateX(100%);
+    }
+    100% {
+      transform: translateX(-100%);
+    }
+  }
+  

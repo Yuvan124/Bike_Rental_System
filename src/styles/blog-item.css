@@ -7,18 +7,18 @@
 }
 
 .read__more {
-  color: #f9a826;
+  color: #265bf9;
   font-weight: 600;
   text-decoration: none;
   font-size: 1rem;
 }
 
 .read__more:hover {
-  color: #f9a826;
+  color: #0b82ea;
 }
 
 .blog__time span i {
-  color: #f9a826;
+  color: #269ef9;
 }
 
 .blog__author {
@@ -39,7 +39,7 @@
 }
 
 .blog__title:hover {
-  color: #f9a826;
+  color: #2646f9;
 }
 
 @media only screen and (max-width: 768px) {

@@ -1,10 +1,10 @@
 .find__cars-left {
-  background: linear-gradient(rgb(249, 168, 38, 0.9), rgb(249, 168, 38, 0.9)),
-    url("../assets/all-images/toyota-offer-2.png");
+  background: linear-gradient(rgba(73, 38, 249, 0.9), rgba(38, 214, 249, 0.9)),
+    url("../assets/all-images/cars-img/nissan-offer.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  padding: 65px 35px;
+  padding: 65px 75px;
 }
 
 .find__cars-left h2 {
@@ -14,7 +14,8 @@
 
 .form__group {
   width: 30%;
-  margin-bottom: 0;
+  margin-bottom: 200px;
+  
 }
 
 .form__group input {
@@ -92,6 +93,7 @@
 
   .form {
     padding: 30px 10px;
+    margin-top: 200px;
   }
 
   .form__group input,

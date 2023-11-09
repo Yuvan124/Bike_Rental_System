@@ -2,139 +2,138 @@
 import img01 from "../all-images/cars-img/nissan-offer.png";
 import img02 from "../all-images/cars-img/offer-toyota.png";
 import img03 from "../all-images/cars-img/bmw-offer.png";
-import img04 from "../all-images/cars-img/nissan-offer.png";
-import img05 from "../all-images/cars-img/offer-toyota.png";
+import img04 from "../all-images/cars-img/bike2.png";
+import img05 from "../all-images/cars-img/bike1.png";
 import img06 from "../all-images/cars-img/mercedes-offer.png";
-import img07 from "../all-images/cars-img/toyota-offer-2.png";
-import img08 from "../all-images/cars-img/mercedes-offer.png";
+import img07 from "../all-images/cars-img/img1.png";
+import img08 from "../all-images/cars-img/img0.png";
 
 const carData = [
   {
     id: 1,
-    brand: "Tesla",
+    brand: "Royal Enfield",
     rating: 112,
-    carName: "Tesla Malibu",
+    carName: "Hunter 350",
     imgUrl: img01,
     model: "Model 3",
-    price: 50,
-    speed: "20kmpl",
+    price: 2000,
+    speed: "40kmpl",
     gps: "GPS Navigation",
-    seatType: "Heated seats",
+   
     automatic: "Automatic",
     description:
-      " Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.",
+      " A motorcycle is a two-wheeled vehicle with an engine. Motorcycles are bigger, heavier, and much faster than bicycles, but they have many similar parts. Like bicycles, motorcycles are often called bikes.",
   },
 
   {
     id: 2,
-    brand: "Toyota",
+    brand: "Yahama",
     rating: 102,
-    carName: "Toyota Aventador",
+    carName: "R15 v4",
     imgUrl: img02,
     model: "Model-2022",
-    price: 50,
-    speed: "20kmpl",
+    price: 3500,
+    speed: "45kmpl",
     gps: "GPS Navigation",
-    seatType: "Heated seats",
+    
     automatic: "Automatic",
     description:
-      " Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.",
+      " A motorcycle is a two-wheeled vehicle with an engine. Motorcycles are bigger, heavier, and much faster than bicycles, but they have many similar parts. Like bicycles, motorcycles are often called bikes.",
   },
 
   {
     id: 3,
-    brand: "BMW",
+    brand: "Honda",
     rating: 132,
-    carName: "BMW X3",
+    carName: "Honda X-blade",
     imgUrl: img03,
     model: "Model-2022",
-    price: 65,
-    speed: "20kmpl",
+    price: 600,
+    speed: "45kmpl",
     gps: "GPS Navigation",
-    seatType: "Heated seats",
+   
     automatic: "Automatic",
     description:
-      " Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.",
+      " A motorcycle is a two-wheeled vehicle with an engine. Motorcycles are bigger, heavier, and much faster than bicycles, but they have many similar parts. Like bicycles, motorcycles are often called bikes.",
   },
 
   {
     id: 4,
-    brand: "Nissan",
+    brand: "Bajaj",
     rating: 102,
-    carName: "Nissan Mercielago",
+    carName: "Pulsar 160",
     imgUrl: img04,
     model: "Model-2022",
-    price: 70,
-    speed: "20kmpl",
+    price: 900,
+    speed: "55kmpl",
     gps: "GPS Navigation",
-    seatType: "Heated seats",
+   
     automatic: "Automatic",
     description:
-      " Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.",
+      "A motorcycle is a two-wheeled vehicle with an engine. Motorcycles are bigger, heavier, and much faster than bicycles, but they have many similar parts. Like bicycles, motorcycles are often called bikes.",
   },
 
   {
     id: 5,
-    brand: "Ferrari",
+    brand: "TVS",
     rating: 94,
-    carName: "Ferrari Camry",
+    carName: "Apache RTR 160",
     imgUrl: img05,
     model: "Model-2022",
-    price: 45,
-    speed: "20kmpl",
+    price: 3000,
+    speed: "50kmpl",
     gps: "GPS Navigation",
-    seatType: "Heated seats",
+   
     automatic: "Automatic",
     description:
-      " Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.",
+      " A motorcycle is a two-wheeled vehicle with an engine. Motorcycles are bigger, heavier, and much faster than bicycles, but they have many similar parts. Like bicycles, motorcycles are often called bikes.",
   },
-
   {
     id: 6,
-    brand: "Mercedes",
+    brand: "KTM",
     rating: 119,
-    carName: "Mercedes Benz XC90",
+    carName: "Duke 390",
     imgUrl: img06,
     model: "Model-2022",
-    price: 85,
+    price: 4000,
     speed: "20kmpl",
     gps: "GPS Navigation",
-    seatType: "Heated seats",
+    
     automatic: "Automatic",
     description:
-      " Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.",
+      " A motorcycle is a two-wheeled vehicle with an engine. Motorcycles are bigger, heavier, and much faster than bicycles, but they have many similar parts. Like bicycles, motorcycles are often called bikes.",
   },
 
   {
     id: 7,
-    brand: "Audi",
+    brand: "Yahama",
     rating: 82,
-    carName: "Audi Fiesta",
+    carName: "MT V2",
     imgUrl: img07,
     model: "Model 3",
-    price: 50,
+    price: 600,
     speed: "20kmpl",
     gps: "GPS Navigation",
-    seatType: "Heated seats",
+   
     automatic: "Automatic",
     description:
-      " Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.",
+      " A motorcycle is a two-wheeled vehicle with an engine. Motorcycles are bigger, heavier, and much faster than bicycles, but they have many similar parts. Like bicycles, motorcycles are often called bikes.",
   },
 
   {
     id: 8,
-    brand: "Colorado",
+    brand: "Yahama",
     rating: 52,
-    carName: "Rolls Royce Colorado",
+    carName: "RX100",
     imgUrl: img08,
     model: "Model 3",
-    price: 50,
+    price: 600,
     speed: "20kmpl",
     gps: "GPS Navigation",
-    seatType: "Heated seats",
+    
     automatic: "Automatic",
     description:
-      " Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.",
+      " A motorcycle is a two-wheeled vehicle with an engine. Motorcycles are bigger, heavier, and much faster than bicycles, but they have many similar parts. Like bicycles, motorcycles are often called bikes.",
   },
 ];
 

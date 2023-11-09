@@ -1,6 +1,6 @@
 .header__top {
-  padding: 10px 0px;
-  background: #000d6b;
+  padding: 10px 20px;
+  background: linear-gradient(rgba(5, 16, 222, 0.9), rgba(38, 133, 249, 0.9));
   color: #fff;
 }
 
@@ -22,7 +22,7 @@
 
 .header__top__help i {
   background: #fff;
-  color: #000d6b;
+  color: #00686b;
   padding: 2px 4px;
   border-radius: 50px;
   font-size: 0.7rem;
@@ -38,10 +38,10 @@
   color: #fff;
 }
 
-/* ============ header middle style =========== */
+
 
 .header__middle {
-  padding: 20px 0px;
+  padding: 0px 20px;
 }
 
 .logo h1 a span {
@@ -78,7 +78,7 @@
 }
 
 .header__btn {
-  background: #000d6b !important;
+  background: #000f12 !important;
   padding: 10px 20px;
   border: none;
   outline: none;
@@ -99,16 +99,16 @@
   color: #fff;
 }
 
-/* ================ main navbar styles =========== */
+
 
 .main__navbar {
   padding: 15px 0px;
-  background: #000d6b;
+ 
 }
 
 .mobile__menu i {
-  color: #fff;
-  font-size: 1.3rem;
+  color: rgb(6, 6, 6);
+  font-size: 2.3rem;
   cursor: pointer;
 }
 
@@ -123,13 +123,14 @@
 }
 
 .nav__item {
-  color: #fff;
+  color: rgb(239, 244, 244);
   text-decoration: none;
   transition: 0.3s;
+  font-size:large;
 }
 
 .nav__item:hover {
-  color: #f9a826;
+  color: #264df9;
 }
 
 .search__box {
@@ -157,19 +158,19 @@
   cursor: pointer;
 }
 
-.nav__active {
-  color: #f9a826;
-}
+
 
 @media only screen and (max-width: 768px) {
   .header__top,
   .header__middle,
   .nav__right {
     display: none;
+   
   }
 
   .mobile__menu {
     display: block;
+    
   }
 
   .navigation {
@@ -186,7 +187,7 @@
   .menu {
     width: 250px;
     height: 100%;
-    background: #fff;
+    background: rgb(10, 10, 10);
     display: flex;
     align-items: center;
     flex-direction: column;
@@ -202,5 +203,25 @@
 
   .menu__active {
     display: block;
+    
   }
+}
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 900px;
+
+  
+  z-index: 1000;
+  
+}
+
+
+
+
+
+.header.scrolled {
+  background-color: rgb(211, 24, 24); 
 }

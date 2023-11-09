@@ -1,6 +1,6 @@
 .slider__item {
   max-width: 100%;
-  height: 650px;
+  height: 750px;
 }
 
 .slider__item-01 {
@@ -51,11 +51,12 @@
   text-decoration: none;
   font-weight: 600;
   color: #000d6b;
+  
 }
 
 .reserve__btn:hover {
-  background: #000d6b;
-  color: #fff;
+  background: #006b0b;
+  color: rgb(149, 230, 20);
 }
 
 @media only screen and (max-width: 992px) {
@@ -81,4 +82,8 @@
   .slider__content h1 {
     font-size: 1.5rem;
   }
+}
+.hero__slider {
+  /* Add some margin or padding to create space for the header */
+  margin-top: 40px; /* Adjust as needed */
 }

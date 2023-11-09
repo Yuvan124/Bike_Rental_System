@@ -4,9 +4,9 @@ import CommonSection from "../components/UI/CommonSection";
 import Helmet from "../components/Helmet/Helmet";
 import AboutSection from "../components/UI/AboutSection";
 import { Container, Row, Col } from "reactstrap";
-import BecomeDriverSection from "../components/UI/BecomeDriverSection";
 
-import driveImg from "../assets/all-images/drive.jpg";
+
+import driveImg from "../assets/all-images/slider-2.jpg";
 import OurMembers from "../components/UI/OurMembers";
 import "../styles/about.css";
 
@@ -32,17 +32,11 @@ const About = () => {
                 </h2>
 
                 <p className="section__description">
-                  Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                  Eveniet veniam assumenda aperiam accusantium ex autem
-                  perferendis repellendus nostrum delectus. Nemo et dolore est
-                  tempore rem minima adipisci magni dolorum ipsam.
+                Our mission is simple: to provide you with top-quality bikes and equipment for an unforgettable journey. Whether you're a seasoned cyclist or a casual rider, we have the perfect bike for you. Our extensive fleet includes a wide range of bicycles, from mountain bikes for rugged trails to sleek road bikes for those scenic road trips.
                 </p>
 
                 <p className="section__description">
-                  Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                  Eveniet veniam assumenda aperiam accusantium ex autem
-                  perferendis repellendus nostrum delectus. Nemo et dolore est
-                  tempore rem minima adipisci magni dolorum ipsam.
+                Our mission is simple: to provide you with top-quality bikes and equipment for an unforgettable journey. Whether you're a seasoned cyclist or a casual rider, we have the perfect bike for you. Our extensive fleet includes a wide range of bicycles, from mountain bikes for rugged trails to sleek road bikes for those scenic road trips.
                 </p>
 
                 <div className=" d-flex align-items-center gap-3 mt-4">
@@ -61,7 +55,7 @@ const About = () => {
         </Container>
       </section>
 
-      <BecomeDriverSection />
+     
 
       <section>
         <Container>

@@ -27,15 +27,10 @@ const FindCarForm = () => {
             required
           />
         </FormGroup>
-        <FormGroup className="select__group">
-          <select>
-            <option value="ac">AC Car</option>
-            <option value="non-ac">Non AC Car</option>
-          </select>
-        </FormGroup>
+       
 
         <FormGroup className="form__group">
-          <button className="btn find__car-btn">Find Car</button>
+          <button className="btn find__car-btn">Find Bike</button>
         </FormGroup>
       </div>
     </Form>

@@ -9,8 +9,9 @@ import AboutSection from "../components/UI/AboutSection";
 import ServicesList from "../components/UI/ServicesList";
 import carData from "../assets/data/carData";
 import CarItem from "../components/UI/CarItem";
-import BecomeDriverSection from "../components/UI/BecomeDriverSection";
+
 import Testimonial from "../components/UI/Testimonial";
+import Marquee from "../components/UI/Marquee";
 
 import BlogList from "../components/UI/BlogList";
 
@@ -26,7 +27,7 @@ const Home = () => {
             <Row className="form__row">
               <Col lg="4" md="4">
                 <div className="find__cars-left">
-                  <h2>Find your best car here</h2>
+                  <h2>Find your best Bike here</h2>
                 </div>
               </Col>
 
@@ -44,11 +45,11 @@ const Home = () => {
         <Container>
           <Row>
             <Col lg="12" className="mb-5 text-center">
-              <h6 className="section__subtitle">See our</h6>
-              <h2 className="section__title">Popular Services</h2>
+            
+              <h2 className="section__title">Our popular Bikes</h2>
             </Col>
 
-            <ServicesList />
+            <Marquee />
           </Row>
         </Container>
       </section>
@@ -68,7 +69,7 @@ const Home = () => {
         </Container>
       </section>
       {/* =========== become a driver section ============ */}
-      <BecomeDriverSection />
+     
 
       {/* =========== testimonial section =========== */}
       <section>
@@ -76,7 +77,7 @@ const Home = () => {
           <Row>
             <Col lg="12" className="mb-4 text-center">
               <h6 className="section__subtitle">Our clients says</h6>
-              <h2 className="section__title">Testimonials</h2>
+       
             </Col>
 
             <Testimonial />
@@ -85,18 +86,7 @@ const Home = () => {
       </section>
 
       {/* =============== blog section =========== */}
-      <section>
-        <Container>
-          <Row>
-            <Col lg="12" className="mb-5 text-center">
-              <h6 className="section__subtitle">Explore our blogs</h6>
-              <h2 className="section__title">Latest Blogs</h2>
-            </Col>
-
-            <BlogList />
-          </Row>
-        </Container>
-      </section>
+     
     </Helmet>
   );
 };

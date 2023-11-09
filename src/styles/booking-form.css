@@ -1,5 +1,6 @@
 .booking__form {
-  width: 47.5%;
+  width: 60.5%;
+  
 }
 
 .booking__form input {
@@ -11,11 +12,12 @@
 
 .booking__form select,
 .textarea {
-  width: 100%;
-  padding: 10px 15px;
-  color: #7c8a97;
-  border: 1px solid #7c8a972a;
-  border-radius: 4px;
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f0f0f0;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 .time__picker::before {
