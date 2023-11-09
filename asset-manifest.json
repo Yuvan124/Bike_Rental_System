@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/p2/static/css/main.ea948e31.css",
+    "main.js": "/p2/static/js/main.98d31fae.js",
+    "static/media/slider-3.jpg": "/p2/static/media/slider-3.725dff89c771985650e5.jpg",
+    "static/media/remixicon.svg?t=1590207869815": "/p2/static/media/remixicon.9cedd2150922ead84869.svg",
+    "static/media/slider-1.jpg": "/p2/static/media/slider-1.c988c46a2c46104f69d5.jpg",
+    "static/media/remixicon.eot?t=1590207869815": "/p2/static/media/remixicon.5cb99e6cba5a4619063f.eot",
+    "static/media/remixicon.ttf?t=1590207869815": "/p2/static/media/remixicon.f2616f597cf98f38d234.ttf",
+    "static/media/slider-2.jpg": "/p2/static/media/slider-2.9dbb2dcd3307d8a25984.jpg",
+    "static/media/img0.png": "/p2/static/media/img0.6923057c1a81191152d9.png",
+    "static/media/bike2.png": "/p2/static/media/bike2.8ebd71c64caf1bf5c319.png",
+    "static/media/img1.png": "/p2/static/media/img1.928543e3f82d067aaa39.png",
+    "static/media/remixicon.woff?t=1590207869815": "/p2/static/media/remixicon.8d09fa11700ed63cf96e.woff",
+    "static/media/nissan-offer.png": "/p2/static/media/nissan-offer.3f0195686051c4712447.png",
+    "static/media/bike1.png": "/p2/static/media/bike1.da3916f8017d1d9ce7fa.png",
+    "static/media/mercedes-offer.png": "/p2/static/media/mercedes-offer.66d23b791ac06afa8644.png",
+    "static/media/ava-2.jpeg": "/p2/static/media/ava-2.83df6dae0e0fc56149da.jpeg",
+    "static/media/remixicon.woff2?t=1590207869815": "/p2/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
+    "static/media/blog-1.jpg": "/p2/static/media/blog-1.e4949dd1d3e0ec0543c5.jpg",
+    "static/media/blog-2.jpg": "/p2/static/media/blog-2.dce2eeb8549652564638.jpg",
+    "static/media/bmw-offer.png": "/p2/static/media/bmw-offer.b9dfc292a461f71e51d1.png",
+    "static/media/blog-3.jpg": "/p2/static/media/blog-3.0cd3766389d5b56badaa.jpg",
+    "static/media/ava-4.jpeg": "/p2/static/media/ava-4.148f08c07cc81ee7f9a4.jpeg",
+    "static/media/ava-1.jpeg": "/p2/static/media/ava-1.0392779824c82ca84200.jpeg",
+    "static/media/drive.jpg": "/p2/static/media/drive.b72e6f2d1ccdbd6550a9.jpg",
+    "static/media/offer-toyota.png": "/p2/static/media/offer-toyota.8138296f42365d948e6e.png",
+    "static/media/ava-3.jpeg": "/p2/static/media/ava-3.d2ddfe75fb4ee8a49210.jpeg",
+    "static/media/slick.svg": "/p2/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/p2/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/p2/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/p2/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/p2/index.html",
+    "main.ea948e31.css.map": "/p2/static/css/main.ea948e31.css.map",
+    "main.98d31fae.js.map": "/p2/static/js/main.98d31fae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea948e31.css",
+    "static/js/main.98d31fae.js"
+  ]
+}
