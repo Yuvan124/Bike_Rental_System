@@ -13,7 +13,7 @@ const Register = () => {
 
   const handleRegister = async (e) => {
     e.preventDefault();
-    const response = await fetch("https://https://bd-fw0w.onrender.com/register", {
+    const response = await fetch("https://pb-yr7z.onrender.com/register", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
